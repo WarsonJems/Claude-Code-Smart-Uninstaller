@@ -18,7 +18,7 @@ A smart, fully automated `.bat` script to completely remove **Claude Code CLI** 
 
 ## 🚀 Usage
 
-1. Download `uninstall_claude_smart.bat`
+1. Download [Download uninstall_claude_smart.bat](./uninstall_claude_smart.bat)
 2. **Double-click** it — it will auto-request Admin rights
 3. Done!
 
